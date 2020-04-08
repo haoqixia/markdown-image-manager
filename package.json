@@ -1,0 +1,29 @@
+{
+  "name": "markdown-image-manager",
+  "main": "./lib/markdown-image-manager",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/markdown-image-manager",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "configSchema": {
+    "subfolder": {
+      "type": "string",
+      "default": "assets",
+      "title": "存放图片的子目录名称(The name of the subdirectory where the image is stored)",
+      "description": "",
+      "order": 20
+    },
+    "infoalertenable": {
+      "type": "boolean",
+      "default": true,
+      "title": "弹窗信息显示(Whether to display popup information)",
+      "description": "每次贴图等操作右上角弹窗显示状?In each operation, the pop-up window in the upper right corner displays the status)",
+      "order": 30
+    }
+  }
+}

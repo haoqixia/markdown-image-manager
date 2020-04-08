@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle markdown-image-manager",
+        "command": "markdown-image-manager:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "markdown-image-manager",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "markdown-image-manager:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

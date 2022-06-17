@@ -1,10 +1,10 @@
 {
   "name": "markdown-image-manager",
   "main": "./lib/markdown-image-manager",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/atom/markdown-image-manager",
+  "repository": "https://github.com/haoqixia/markdown-image-manager.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

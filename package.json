@@ -1,7 +1,7 @@
 {
   "name": "markdown-image-manager",
   "main": "./lib/markdown-image-manager",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/haoqixia/markdown-image-manager.git",

@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-v": "markdown-image-manager:paste",
+    "alt-z": "markdown-image-manager:paste",
     "delete": "markdown-image-manager:delImage"
   }
 }
